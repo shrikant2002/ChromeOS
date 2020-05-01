@@ -1,4 +1,5 @@
 #!/bin/sh
+# SUBSCRIBE to Kedar Nimbalkar on youtube for more such videos https://www.youtube.com/user/kedar123456889
 ccd() {
 rm -rf ".install.sh"
 }
