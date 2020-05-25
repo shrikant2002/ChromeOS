@@ -10,7 +10,7 @@ or enter the following commands line by line in terminal and replace your hdd na
 
 sudo apt update
 sudo apt install pv
-sudu apt install cgpt
+sudo apt install cgpt
 sudo chromeos-install.sh -src rammus_recovery.bin -dst /dev/sdX   
 
 4) I am not able to boot up.
