@@ -1,5 +1,5 @@
 #!/bin/sh
-# SUBSCRIBE to Kedar Nimbalkar on youtube for more such videos https://www.youtube.com/c/HowToGuys
+# SUBSCRIBE to How To Guys on youtube for more such videos https://www.youtube.com/c/HowToGuys
 sudo apt-get update
 sudo apt-get install figlet
 sudo apt-get install pv
